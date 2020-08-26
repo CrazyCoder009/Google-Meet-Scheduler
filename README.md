@@ -5,10 +5,16 @@
 <p align="center"><b>😴 Join's meet link for you</b></p>
 
 Creates a headless browser and login with your gmail Id and password to join meet session.
+## Support pre requisites
+  Micrsoft Edge Browser Support ✅
+  Google Chrome Support ✅
+  Mozilla Firefox Support ❌
+  Windows 10 ✅
+  Linux ❌
 
 ### How to set up yours
 
-1. Star this repo then fork it 😋
+1. Star this repo then fork it 😋. Open direcory type npm i.
 2. On line 14 and 15 in `server.js` add your email and password
 
 You can now run this on your local machine.
@@ -29,6 +35,7 @@ this video explains deployment on heroku very well 👉🏻 [YouTube Link](https
 
 Deploying on Heroku has some issue see [#1](https://github.com/AmanRaj1608/Google-Meet-Scheduler/issues/1)
 
+Credits and Thanks to AmanRaj1608.
 <br>
 <br>
 
